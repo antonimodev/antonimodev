@@ -14,7 +14,7 @@
     <p align="left">
       <img align="center" src="https://komarev.com/ghpvc/?username=antonimodev" alt="Profile views"/>
         <a href="https://github.com/antonimodev/?tab=follow">
-        <img align="center" src="https://img.shields.io/github/followers/antonimodev?label=Follow&style=social" alt="GitHub followers" />
+        <img align="center" src="https://img.shields.io/github/followers/antonimodev?label=followers&style=social" alt="GitHub followers" />
     </p>
 </div>
 
