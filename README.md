@@ -65,7 +65,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
        <tr>
             <td align="center">💻 Terminal</td>
             <td>
-                 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+                 <img src="https://img.shields.io/badge/Bash%20Shell-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
             </td>
             <td>
             </td>
@@ -91,7 +91,8 @@ I have a keen interest in exploring various technologies and methodologies. I fi
         <tr>
             <td align="center">📝 IDEs/Editors</td>
             <td>
-                <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+                <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+                <img alt="Visual Studio Code" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
             </td>
             <td>
             </td>
