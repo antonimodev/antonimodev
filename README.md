@@ -60,7 +60,9 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
                  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
             </td>
-            <td></td>
+            <td>
+                 🔎
+            </td>
         </tr>
        <tr>
             <td align="center">💻 Terminal</td>
@@ -68,6 +70,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                  <img src="https://img.shields.io/badge/Bash%20Shell-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
             </td>
             <td>
+                 🔎
             </td>
         </tr>
         <tr>
@@ -77,6 +80,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
               <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
             </td>
             <td>
+                 🔎
             </td>
         </tr>
         <tr>
@@ -86,6 +90,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
             </td>
             <td>
+                 🔎
             </td>
         </tr>
         <tr>
@@ -95,6 +100,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
             </td>
             <td>
+                 🔎
             </td>
         </tr>
     </tbody>
