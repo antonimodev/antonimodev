@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋, I'm Antonio Moreno (antonimodev)</h1>
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</p>
-<h3 align="center">I'm a programming student at 42 Málaga, working on honing my coding skills.</h3>
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+	<h1 align="center">Hi 👋, I'm Antonio Moreno (antonimodev)</h1>
 
-###
-
-<div>
-     </p>
-    <p align="left">
-      <img align="center" src="https://komarev.com/ghpvc/?username=antonimodev" alt="Profile views"/>
-        <a href="https://github.com/antonimodev/?tab=follow">
-        <img align="center" src="https://img.shields.io/github/followers/antonimodev?label=followers&style=social" alt="GitHub followers" />
-    </p>
+<!-- gif con lineas rgb -->
+<div align="center">
+     <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+     <h3 align="center">I'm a programming student at 42 Málaga, working on honing my coding skills.</h3>
+     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </div>
 
-###
+<!-- followers y profile views -->
+<br>
+
+<div align="left">
+      <img align="center" src="https://komarev.com/ghpvc/?username=antonimodev" alt="Profile views"/>
+      <a href="https://github.com/antonimodev/?tab=follow">
+      <img align="center" src="https://img.shields.io/github/followers/antonimodev?label=followers&style=social" alt="GitHub followers" />
+</div>
 
 <h3 align="center">Share is my way of learning.</h3>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
-</p>
-<br>
-
-Hello! 👋 I'm **Antonio**, a technology enthusiast with a special interest in *AI and cybersecurity*.
+</div>
 
 <br>
+<br>
 
-**Currently**, I'm expanding my programming skills, focusing on C to build a solid foundation and eventually transition to other languages. My goal is to contribute to open-source projects to continue learning and adding value to the tech community.
+<div class="mb-5">
+     <p align="center">Hello! 👋 I'm <b>Antonio</b>, a technology enthusiast with a special interest in <b>AI and cybersecurity</b>.</p>
+     <br>
+     <p><b>Currently</b>, I'm expanding my programming skills, focusing on C to build a solid foundation and eventually transition to other languages. My goal is to contribute to open-source projects to continue learning and adding value to the tech community.</p>
+</div>
 
 <br>
 
@@ -109,6 +117,8 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 
 ###
 
+<br>
+
 # GitHub Statistics
 
 The following badges summarize my activity on this platform.
@@ -146,5 +156,11 @@ The following badges summarize my activity on this platform.
 
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
+
+<br>
+<br>
+
+</body>
+</html>
