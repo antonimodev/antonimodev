@@ -24,7 +24,7 @@
       <img align="center" src="https://img.shields.io/github/followers/antonimodev?label=followers&style=social" alt="GitHub followers" />
 </div>
 
-<h3 align="center">Share is my way of learning.</h3>
+<h3 align="center">Sharing is my way of learning.</h3>
 
 <br>
 
@@ -38,7 +38,7 @@
 <div class="mb-5">
      <p align="center">Hello! 👋 I'm <b>Antonio</b>, a technology enthusiast with a special interest in <b>AI and cybersecurity</b>.</p>
      <br>
-     <p><b>Currently</b>, I'm expanding my programming skills, focusing on C to build a solid foundation and eventually transition to other languages. My goal is to contribute to open-source projects to continue learning and adding value to the tech community.</p>
+     <p><b>Currently</b>, I'm expanding my programming skills, focusing on C to build a solid foundation and eventually transition to other languages. My goals are contributing to open-sources projects and adding value to the tech community.</p>
 </div>
 
 <br>
