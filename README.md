@@ -8,14 +8,14 @@
 <body>
 	<h1 align="center">Hi 👋, I'm Antonio Moreno (antonimodev)</h1>
 
-<!-- gif con lineas rgb -->
+<!-- GIF RGB LINES -->
 <div align="center">
      <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
      <h3 align="center">I'm a programming student at 42 Málaga, working on honing my coding skills.</h3>
      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </div>
 
-<!-- followers y profile views -->
+<!-- FOLLOWS AND PROFILE VIEWS -->
 <br>
 
 <div align="left">
@@ -53,6 +53,8 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 <br>
   
 [![Generic badge](https://img.shields.io/badge/Learning_Process-ON-<COLOR>.svg)](https://shields.io/)
+
+<!-- SKILL CHECKS -->
 <table>
     <thead align="center">
         <tr>
@@ -118,6 +120,12 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 ###
 
 <br>
+
+# Leetcode Statistics
+
+This card represents my journey through LeetCode.
+
+<img src="https://leetcode-stats-six.vercel.app/?username=antonimodev&theme=dark"/>
 
 # GitHub Statistics
 
