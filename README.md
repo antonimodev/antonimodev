@@ -125,7 +125,9 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 
 This card represents my journey through LeetCode.
 
-<img src="https://leetcard.jacoblin.cool/antonimodev?theme=dark&extension=activity">
+<a href="https://leetcode.com/u/antonimodev/">
+	<img src="https://leetcard.jacoblin.cool/antonimodev?theme=dark&extension=activity"/>
+</a>
 
 # GitHub Statistics
 
