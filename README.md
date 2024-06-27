@@ -67,7 +67,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
         <tr>
             <td align="center">🧠 Programming Languages</td>
             <td>
-                 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+                 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=orange"/>
                  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
             </td>
             <td>
@@ -77,7 +77,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
        <tr>
             <td align="center">💻 Terminal</td>
             <td>
-                 <img src="https://img.shields.io/badge/Bash%20Shell-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+                 <img alt="Bash" src="https://img.shields.io/badge/Bash%20Shell-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
             </td>
             <td>
                  🔎
@@ -86,8 +86,8 @@ I have a keen interest in exploring various technologies and methodologies. I fi
         <tr>
             <td align="center">:octocat: Version Control</td>
             <td>
-              <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-              <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+              <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+              <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
             </td>
             <td>
                  🔎
@@ -96,8 +96,9 @@ I have a keen interest in exploring various technologies and methodologies. I fi
         <tr>
             <td align="center">📚 Documentation</td>
             <td>
-                 <img src="https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white">
-                 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+                 <img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white">
+		 <img alt="Notion" src="https://img.shields.io/badge/Notion-CC5500?style=for-the-badge&logo=notion&logoColor=white">
+                 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
             </td>
             <td>
                  🔎
@@ -107,7 +108,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
             <td align="center">📝 IDEs/Editors</td>
             <td>
                 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-                <img alt="Visual Studio Code" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+                <img alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
             </td>
             <td>
                  🔎
