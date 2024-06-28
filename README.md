@@ -118,7 +118,15 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 </table>
 </div>
 
-###
+# Projects & Docs
+
+<a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615" title="Born2Beroot">
+     <img 
+     src="/banners/DOCUMENTATION-removedbg-preview.png" 
+     alt="42 Documentation"
+     width="300"
+     />
+</a>
 
 <br>
 
