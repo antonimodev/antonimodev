@@ -43,7 +43,7 @@
 
 <br>
 
-## Technical Knowledge
+# Technical Knowledge
 
 I have a keen interest in exploring various technologies and methodologies. I firmly believe that this curiosity not only broadens my skill set but also enhances my adaptability to tackle diverse challenges in my professional journey.
 
