@@ -120,13 +120,27 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 
 # Projects & Docs
 
-<a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615" title="Born2Beroot">
-     <img 
-     src="/banners/DOCUMENTATION-removedbg-preview.png" 
-     alt="42 Documentation"
-     width="300"
-     />
-</a>
+<table style="margin: 0 auto;">
+    <tr>
+        <td style="text-align: center;">
+             <a href="https://github.com/antonimodev/42-Common-Core" title="42 Projects">
+                <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/Projects42.png"
+                     alt="42 Projects"
+                     width="300"
+                />
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615" title="Born2Beroot">
+                <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/DOCUMENTATION-removebg-preview.png"
+                     alt="42 Documentation"
+                     width="300"
+                />
+            </a>
+        </td>
+    </tr>
+</table>
+
 
 <br>
 
