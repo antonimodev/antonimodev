@@ -114,6 +114,15 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                  🔎
             </td>
         </tr>
+	    <tr>
+		    <td align="center">🔒 Cybersecurity</td>
+		    <td>
+			    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-4CDEE0?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+		    </td>
+		    <td>
+			    🔎
+		    </td>
+	    </tr>
     </tbody>
 </table>
 </div>
