@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body>
 	<h1 align="center">Hi 👋, I'm Antonio Moreno (antonimodev)</h1>
@@ -129,37 +128,9 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 
 # Projects & Docs
 
-<table>
-    <tr>
-        <td style="text-align: center;">
-             <a href="https://github.com/antonimodev/42-Common-Core" title="42 Projects">
-                <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/Projects42.png"
-                     alt="42 Projects"
-                     width="300"
-                />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/antonimodev/42-Documentation" title="42 Documentation">
-                <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/DOCUMENTATION.png"
-                     alt="42 Documentation"
-                     width="300"
-                />
-            </a>
-	</td>
-	<tr>
-        	<td>
-        	    <a href="https://github.com/antonimodev/Cybersecurity" title="Cybersecurity">
-        	        <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/Cybersec%20banner%20github2.png"
-        	             alt="Cybersecurity"
-        	             width="300"
-        	        />
-        	    </a>
-        	</td>
-	</tr>
-    </tr>
-</table>
-
+| [![42 Projects](https://github.com/antonimodev/antonimodev/blob/main/banners/Projects42.png)](https://github.com/antonimodev/42-Common-Core) | [![42 Documentation](https://github.com/antonimodev/antonimodev/blob/main/banners/DOCUMENTATION.png)](https://github.com/antonimodev/42-Documentation) |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [![Cybersecurity](https://github.com/antonimodev/antonimodev/blob/main/banners/Cybersec%20banner%20github2.png)](https://github.com/antonimodev/Cybersecurity) |
 
 <br>
 
