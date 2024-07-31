@@ -129,7 +129,7 @@ I have a keen interest in exploring various technologies and methodologies. I fi
 
 # Projects & Docs
 
-<table style="margin: 0 auto;">
+<table>
     <tr>
         <td style="text-align: center;">
              <a href="https://github.com/antonimodev/42-Common-Core" title="42 Projects">
@@ -139,22 +139,24 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                 />
             </a>
         </td>
-        <td style="text-align: center;">
+        <td>
             <a href="https://github.com/antonimodev/42-Documentation" title="42 Documentation">
                 <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/DOCUMENTATION.png"
                      alt="42 Documentation"
                      width="300"
                 />
             </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/antonimodev/Cybersecurity" title="Cybersecurity">
-                <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/Cybersec-banner-github2.png"
-                     alt="Cybersecurity"
-                     width="300"
-                />
-            </a>
-        </td>
+	</td>
+	<tr>
+        	<td>
+        	    <a href="https://github.com/antonimodev/Cybersecurity" title="Cybersecurity">
+        	        <img src="https://github.com/antonimodev/antonimodev/blob/main/banners/Cybersec%20banner%20github2.png"
+        	             alt="Cybersecurity"
+        	             width="300"
+        	        />
+        	    </a>
+        	</td>
+	</tr>
     </tr>
 </table>
 
