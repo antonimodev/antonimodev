@@ -10,7 +10,7 @@
 <!-- GIF RGB LINES -->
 <div align="center">
      <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-     <h3 align="center">I'm a programming student at 42 Málaga, working on honing my coding skills.</h3>
+     <h3 align="center">I'm a programming student at 42 Málaga, working on honing my coding skills. </h3>
      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </div>
 
@@ -35,9 +35,9 @@
 <br>
 
 <div class="mb-5">
-     <p align="center">Hello! 👋 I'm <b>Antonio</b>, a technology enthusiast with a special interest in <b>AI and cybersecurity</b>.</p>
+     <p align="center">Hello! 👋 I'm <b>Antonio</b>, a junior software engineer passionate about building efficient and maintainable software.</p>
      <br>
-     <p><b>Currently</b>, I'm expanding my programming skills, focusing on C to build a solid foundation and eventually transition to other languages. My goals are contributing to open-sources projects and adding value to the tech community.</p>
+     <p><b>Currently</b>, I’m working with C and C++ at 42 while exploring personal projects in Java and Python. I enjoy learning new technologies, tackling challenging problems, and improving my software design skills.</p>
 </div>
 
 <br>
@@ -66,8 +66,10 @@ I have a keen interest in exploring various technologies and methodologies. I fi
         <tr>
             <td align="center">🧠 Programming Languages</td>
             <td>
-                 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=orange"/>
-                 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+				<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=orange"/>
+				<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+				<img alt="Java" src="https://img.shields.io/badge/java-%999900.svg?style=for-the-badge&logo=openjdk&logoColor=black"/>
+				<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
             </td>
             <td>
                  🔎
