@@ -75,6 +75,15 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                  🔎
             </td>
         </tr>
+		<tr>
+            <td align="center">⚙️ Frameworks</td>
+            <td>
+                <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+            </td>
+            <td>
+                 🔎
+            </td>
+		</tr>
        <tr>
             <td align="center">💻 Terminal</td>
             <td>
